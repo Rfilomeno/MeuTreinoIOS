@@ -12,6 +12,9 @@
 		FD3B14A02000066A00B9EC91 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD3B149E2000066A00B9EC91 /* Main.storyboard */; };
 		FD3B14A22000066A00B9EC91 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD3B14A12000066A00B9EC91 /* Assets.xcassets */; };
 		FD3B14A52000066A00B9EC91 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD3B14A32000066A00B9EC91 /* LaunchScreen.storyboard */; };
+		FD3B14AD200008B600B9EC91 /* ExerciceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD3B14AC200008B600B9EC91 /* ExerciceViewController.swift */; };
+		FD3B14AF20000D4700B9EC91 /* Exercicio.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD3B14AE20000D4700B9EC91 /* Exercicio.swift */; };
+		FD3B14B12000172400B9EC91 /* MyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD3B14B02000172400B9EC91 /* MyCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		FD3B14A12000066A00B9EC91 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD3B14A42000066A00B9EC91 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD3B14A62000066A00B9EC91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD3B14AC200008B600B9EC91 /* ExerciceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciceViewController.swift; sourceTree = "<group>"; };
+		FD3B14AE20000D4700B9EC91 /* Exercicio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio.swift; sourceTree = "<group>"; };
+		FD3B14B02000172400B9EC91 /* MyCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				FD3B14A12000066A00B9EC91 /* Assets.xcassets */,
 				FD3B14A32000066A00B9EC91 /* LaunchScreen.storyboard */,
 				FD3B14A62000066A00B9EC91 /* Info.plist */,
+				FD3B14AC200008B600B9EC91 /* ExerciceViewController.swift */,
+				FD3B14AE20000D4700B9EC91 /* Exercicio.swift */,
+				FD3B14B02000172400B9EC91 /* MyCell.swift */,
 			);
 			path = MeuTreino;
 			sourceTree = "<group>";
@@ -136,6 +145,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD3B14AD200008B600B9EC91 /* ExerciceViewController.swift in Sources */,
+				FD3B14B12000172400B9EC91 /* MyCell.swift in Sources */,
+				FD3B14AF20000D4700B9EC91 /* Exercicio.swift in Sources */,
 				FD3B149D2000066A00B9EC91 /* ViewController.swift in Sources */,
 				FD3B149B2000066A00B9EC91 /* AppDelegate.swift in Sources */,
 			);
