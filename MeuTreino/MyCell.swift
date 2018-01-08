@@ -12,10 +12,7 @@ class MyCell: UITableViewCell {
     
     @IBOutlet weak var txtNome: UILabel!
     @IBOutlet weak var txtMaquina: UILabel!
-    @IBOutlet weak var txtSeries: UILabel!
-    @IBOutlet weak var txtRepeticoes: UILabel!
-    @IBOutlet weak var txtCarga: UILabel!
-    @IBOutlet weak var txtAssento: UILabel!
+    
     
     
     

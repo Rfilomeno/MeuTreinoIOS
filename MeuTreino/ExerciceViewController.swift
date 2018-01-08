@@ -19,18 +19,21 @@ class ExerciceViewController: UIViewController, UITableViewDataSource, UITableVi
         let cell = tableView.dequeueReusableCell(withIdentifier: "cell", for: indexPath) as! MyCell
         cell.txtNome.text = Serie[indexPath.row].Nome
         cell.txtMaquina.text = Serie[indexPath.row].Maquina
-        cell.txtSeries.text = Serie[indexPath.row].Series
-        cell.txtRepeticoes.text = Serie[indexPath.row].Repeticoes
-        cell.txtCarga.text = Serie[indexPath.row].Carga
-        cell.txtAssento.text = Serie[indexPath.row].Assento
+        
         
         return cell
     }
     
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        exercicioSelecionado = Serie[indexPath.row]
+        self.performSegue(withIdentifier: "detailSegue", sender: nil)
+    }
+    
 
     @IBOutlet weak var TableViewExercicio: UITableView!
-    @IBOutlet weak var ImageViewExercicio: UIImageView!
+    
     var Serie:[Exercicio] = []
+    var exercicioSelecionado = Exercicio(nome: "none", maquina: "", series: "", repeticoes: "", carga: "", assento: "", imagem: "")
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -48,7 +51,11 @@ class ExerciceViewController: UIViewController, UITableViewDataSource, UITableVi
         // Dispose of any resources that can be recreated.
     }
     
-
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        let view = segue.destination as! DetailViewController
+        view.add(exercicio: exercicioSelecionado)
+        //
+    }
     /*
     // MARK: - Navigation
 

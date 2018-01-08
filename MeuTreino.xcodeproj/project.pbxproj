@@ -15,6 +15,7 @@
 		FD3B14AD200008B600B9EC91 /* ExerciceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD3B14AC200008B600B9EC91 /* ExerciceViewController.swift */; };
 		FD3B14AF20000D4700B9EC91 /* Exercicio.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD3B14AE20000D4700B9EC91 /* Exercicio.swift */; };
 		FD3B14B12000172400B9EC91 /* MyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD3B14B02000172400B9EC91 /* MyCell.swift */; };
+		FD44D88F2003BCCD001C5011 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD44D88E2003BCCD001C5011 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		FD3B14AC200008B600B9EC91 /* ExerciceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciceViewController.swift; sourceTree = "<group>"; };
 		FD3B14AE20000D4700B9EC91 /* Exercicio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercicio.swift; sourceTree = "<group>"; };
 		FD3B14B02000172400B9EC91 /* MyCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCell.swift; sourceTree = "<group>"; };
+		FD44D88E2003BCCD001C5011 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				FD3B14AC200008B600B9EC91 /* ExerciceViewController.swift */,
 				FD3B14AE20000D4700B9EC91 /* Exercicio.swift */,
 				FD3B14B02000172400B9EC91 /* MyCell.swift */,
+				FD44D88E2003BCCD001C5011 /* DetailViewController.swift */,
 			);
 			path = MeuTreino;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 				FD3B14AD200008B600B9EC91 /* ExerciceViewController.swift in Sources */,
 				FD3B14B12000172400B9EC91 /* MyCell.swift in Sources */,
 				FD3B14AF20000D4700B9EC91 /* Exercicio.swift in Sources */,
+				FD44D88F2003BCCD001C5011 /* DetailViewController.swift in Sources */,
 				FD3B149D2000066A00B9EC91 /* ViewController.swift in Sources */,
 				FD3B149B2000066A00B9EC91 /* AppDelegate.swift in Sources */,
 			);
