@@ -25,8 +25,10 @@ class ExerciceViewController: UIViewController, UITableViewDataSource, UITableVi
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        exercicioSelecionado = Serie[indexPath.row]
-        self.performSegue(withIdentifier: "detailSegue", sender: nil)
+        if indexPath.row > 0{
+            exercicioSelecionado = Serie[indexPath.row]
+            self.performSegue(withIdentifier: "detailSegue", sender: nil)
+        }
     }
     
 

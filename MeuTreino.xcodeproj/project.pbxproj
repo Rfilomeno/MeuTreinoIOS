@@ -7,6 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FD16C43F2004F77A0078850B /* esteira.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD16C43E2004F77A0078850B /* esteira.jpg */; };
+		FD16C4412004F7920078850B /* supinomaquina.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD16C4402004F7920078850B /* supinomaquina.jpg */; };
+		FD16C4432004F7A70078850B /* Supinoinclinadomaquina.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD16C4422004F7A70078850B /* Supinoinclinadomaquina.jpg */; };
+		FD16C4452004F8440078850B /* flexaojoelho.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD16C4442004F8440078850B /* flexaojoelho.jpg */; };
+		FD16C4472004F85E0078850B /* tricepspolia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD16C4462004F85E0078850B /* tricepspolia.jpg */; };
+		FD16C4492004F8920078850B /* cadeiraabdutora.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD16C4482004F8920078850B /* cadeiraabdutora.jpg */; };
+		FD16C44B2004F8D90078850B /* elevacaoquadril.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD16C44A2004F8D90078850B /* elevacaoquadril.jpg */; };
+		FD16C44D2004F8EF0078850B /* gemeossentado.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD16C44C2004F8EF0078850B /* gemeossentado.jpg */; };
+		FD16C44F2004F9500078850B /* puxadamaquina.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD16C44E2004F9500078850B /* puxadamaquina.jpg */; };
+		FD16C4512004F96B0078850B /* remadamaquina.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD16C4502004F96B0078850B /* remadamaquina.jpg */; };
+		FD16C4532004F9850078850B /* cadeiraextensora.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD16C4522004F9850078850B /* cadeiraextensora.jpg */; };
+		FD16C4552004F9CC0078850B /* Agachamentobola.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD16C4542004F9CC0078850B /* Agachamentobola.jpg */; };
+		FD16C4572004FA320078850B /* BicepsMaq.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD16C4562004FA320078850B /* BicepsMaq.jpg */; };
+		FD16C4592004FA460078850B /* cadeiraadutora.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD16C4582004FA460078850B /* cadeiraadutora.jpg */; };
+		FD16C45B2004FA630078850B /* remadaalta.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD16C45A2004FA630078850B /* remadaalta.jpg */; };
 		FD3B149B2000066A00B9EC91 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD3B149A2000066A00B9EC91 /* AppDelegate.swift */; };
 		FD3B149D2000066A00B9EC91 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD3B149C2000066A00B9EC91 /* ViewController.swift */; };
 		FD3B14A02000066A00B9EC91 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD3B149E2000066A00B9EC91 /* Main.storyboard */; };
@@ -19,6 +34,21 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FD16C43E2004F77A0078850B /* esteira.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = esteira.jpg; sourceTree = "<group>"; };
+		FD16C4402004F7920078850B /* supinomaquina.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = supinomaquina.jpg; sourceTree = "<group>"; };
+		FD16C4422004F7A70078850B /* Supinoinclinadomaquina.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Supinoinclinadomaquina.jpg; sourceTree = "<group>"; };
+		FD16C4442004F8440078850B /* flexaojoelho.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = flexaojoelho.jpg; sourceTree = "<group>"; };
+		FD16C4462004F85E0078850B /* tricepspolia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tricepspolia.jpg; sourceTree = "<group>"; };
+		FD16C4482004F8920078850B /* cadeiraabdutora.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cadeiraabdutora.jpg; sourceTree = "<group>"; };
+		FD16C44A2004F8D90078850B /* elevacaoquadril.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = elevacaoquadril.jpg; sourceTree = "<group>"; };
+		FD16C44C2004F8EF0078850B /* gemeossentado.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gemeossentado.jpg; sourceTree = "<group>"; };
+		FD16C44E2004F9500078850B /* puxadamaquina.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = puxadamaquina.jpg; sourceTree = "<group>"; };
+		FD16C4502004F96B0078850B /* remadamaquina.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = remadamaquina.jpg; sourceTree = "<group>"; };
+		FD16C4522004F9850078850B /* cadeiraextensora.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cadeiraextensora.jpg; sourceTree = "<group>"; };
+		FD16C4542004F9CC0078850B /* Agachamentobola.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Agachamentobola.jpg; sourceTree = "<group>"; };
+		FD16C4562004FA320078850B /* BicepsMaq.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BicepsMaq.jpg; sourceTree = "<group>"; };
+		FD16C4582004FA460078850B /* cadeiraadutora.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cadeiraadutora.jpg; sourceTree = "<group>"; };
+		FD16C45A2004FA630078850B /* remadaalta.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = remadaalta.jpg; sourceTree = "<group>"; };
 		FD3B14972000066A00B9EC91 /* MeuTreino.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeuTreino.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD3B149A2000066A00B9EC91 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FD3B149C2000066A00B9EC91 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -43,6 +73,28 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FD16C43D2004F7280078850B /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				FD16C43E2004F77A0078850B /* esteira.jpg */,
+				FD16C4402004F7920078850B /* supinomaquina.jpg */,
+				FD16C4422004F7A70078850B /* Supinoinclinadomaquina.jpg */,
+				FD16C4442004F8440078850B /* flexaojoelho.jpg */,
+				FD16C4462004F85E0078850B /* tricepspolia.jpg */,
+				FD16C4482004F8920078850B /* cadeiraabdutora.jpg */,
+				FD16C44A2004F8D90078850B /* elevacaoquadril.jpg */,
+				FD16C44C2004F8EF0078850B /* gemeossentado.jpg */,
+				FD16C44E2004F9500078850B /* puxadamaquina.jpg */,
+				FD16C4502004F96B0078850B /* remadamaquina.jpg */,
+				FD16C4522004F9850078850B /* cadeiraextensora.jpg */,
+				FD16C4542004F9CC0078850B /* Agachamentobola.jpg */,
+				FD16C4562004FA320078850B /* BicepsMaq.jpg */,
+				FD16C4582004FA460078850B /* cadeiraadutora.jpg */,
+				FD16C45A2004FA630078850B /* remadaalta.jpg */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
 		FD3B148E2000066A00B9EC91 = {
 			isa = PBXGroup;
 			children = (
@@ -62,6 +114,7 @@
 		FD3B14992000066A00B9EC91 /* MeuTreino */ = {
 			isa = PBXGroup;
 			children = (
+				FD16C43D2004F7280078850B /* New Group */,
 				FD3B149A2000066A00B9EC91 /* AppDelegate.swift */,
 				FD3B149C2000066A00B9EC91 /* ViewController.swift */,
 				FD3B149E2000066A00B9EC91 /* Main.storyboard */,
@@ -136,8 +189,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				FD3B14A52000066A00B9EC91 /* LaunchScreen.storyboard in Resources */,
+				FD16C4572004FA320078850B /* BicepsMaq.jpg in Resources */,
 				FD3B14A22000066A00B9EC91 /* Assets.xcassets in Resources */,
+				FD16C44B2004F8D90078850B /* elevacaoquadril.jpg in Resources */,
+				FD16C4592004FA460078850B /* cadeiraadutora.jpg in Resources */,
+				FD16C4432004F7A70078850B /* Supinoinclinadomaquina.jpg in Resources */,
+				FD16C4552004F9CC0078850B /* Agachamentobola.jpg in Resources */,
+				FD16C4412004F7920078850B /* supinomaquina.jpg in Resources */,
+				FD16C4532004F9850078850B /* cadeiraextensora.jpg in Resources */,
+				FD16C4512004F96B0078850B /* remadamaquina.jpg in Resources */,
 				FD3B14A02000066A00B9EC91 /* Main.storyboard in Resources */,
+				FD16C43F2004F77A0078850B /* esteira.jpg in Resources */,
+				FD16C4472004F85E0078850B /* tricepspolia.jpg in Resources */,
+				FD16C44D2004F8EF0078850B /* gemeossentado.jpg in Resources */,
+				FD16C4492004F8920078850B /* cadeiraabdutora.jpg in Resources */,
+				FD16C45B2004FA630078850B /* remadaalta.jpg in Resources */,
+				FD16C4452004F8440078850B /* flexaojoelho.jpg in Resources */,
+				FD16C44F2004F9500078850B /* puxadamaquina.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

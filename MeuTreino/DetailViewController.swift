@@ -33,6 +33,7 @@ class DetailViewController: UIViewController {
         txtRepeticoes.text = "Repetições: \(exercicio.Repeticoes)"
         txtCarga.text = "Carga: \(exercicio.Carga)"
         txtAssento.text = "Assento: \(exercicio.Assento)"
+        imagem.image = UIImage(named: exercicio.Imagem)
         
         
         
